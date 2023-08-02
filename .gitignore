@@ -41,5 +41,13 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-##Envoronment##
+##Environment##
 .env
+
+##AWS##
+/.aws
+/aws
+
+##keys##
+**/*.jks
+**/*.pem

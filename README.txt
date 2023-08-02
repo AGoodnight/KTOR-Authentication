@@ -1,0 +1,1 @@
+This is an example of a non-production ready authentication service in ktor. It assumes you will generate a certificate locally using keystore.
